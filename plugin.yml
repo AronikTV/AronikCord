@@ -1,0 +1,8 @@
+name: Aronikcord
+author: AronikTV
+version: 1.4
+main: main.Main
+
+
+commands:
+  server:
