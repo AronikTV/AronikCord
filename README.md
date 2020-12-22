@@ -1,5 +1,5 @@
 # AronikCord
-#AronikCord a Bungeecord Addon
+# AronikCord a Bungeecord Addon
 # Bitte gebe das Plugin nicht als deins aus
 #
 # Das umschreiben ist verboten!
